@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+cache/
+checkpoints/
+selections/
+generated/
+eval/
